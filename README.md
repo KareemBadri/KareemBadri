@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @KareemBadri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-KareemBadri/KareemBadri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @KareemBadri. I let my code speak for me.
+- 👀 I’m a data scientist and AWS Specialist
+- 📫 Check my code and projects
+- 🌱 I make everything simple, clear, efficient, and effective. 
+- 💞️ I’m looking to work as a data scientist (Machine Learning or Deep Learning) or AWS Specialist. 

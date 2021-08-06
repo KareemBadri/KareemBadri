@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KareemBadri. I let my code speak for me.
+- 👋 Hi, I’m @KareemBadri. I let my code speak for myself.
 - 👀 I’m a Data Scientist and AWS Specialist.
 - 📫 My repository contains Machine Learning and Deep Learning Projects.
 - 🌱 I make everything simple, clear, efficient, and effective. 
